@@ -1,0 +1,34 @@
+# Local configuration and generated runtime data
+/settings.json
+/STATUS.json
+/wsl/
+/logs/
+/reports/
+/run/
+/rootfs/
+/build/
+/dist/
+
+# Firmware, simulator assets and captures are acquired separately
+/PX4-Autopilot/
+/PX4-FlightAxis-Bridge/
+*.vhd
+*.vhdx
+*.tlog
+*.ulog
+*.mavlink
+*.rfvehicle
+*.rfx
+*.zip
+
+# Python and editor output
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.vscode/
+.idea/
+.env
+.env.*
+Thumbs.db
+.DS_Store

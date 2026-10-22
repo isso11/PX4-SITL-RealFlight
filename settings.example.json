@@ -1,0 +1,19 @@
+{
+  "Distro": "Ubuntu-22.04",
+  "LinuxDirectory": "px4-realflight-sitl",
+  "Px4Ref": "v1.16.0",
+  "BridgeRef": "11f769d0e894416f405339e808eded5dc71c46b1",
+  "AircraftProfile": "generic",
+  "WindowsHostAddress": "auto",
+  "FlightAxisAddress": "auto",
+  "QgcExecutable": "C:\\Program Files\\QGroundControl\\bin\\QGroundControl.exe",
+  "SteamExecutable": "C:\\Program Files (x86)\\Steam\\steam.exe",
+  "RealFlightExecutable": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RealFlight Evolution\\RealFlight64.exe",
+  "SteamAppId": "2069310",
+  "Home": {
+    "Latitude": 47.397742,
+    "Longitude": 8.545594,
+    "AltitudeMslMetres": 488.0,
+    "YawDegrees": 0.0
+  }
+}
